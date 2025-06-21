@@ -31,18 +31,6 @@ CineDialogue is an AI-powered application that generates creative dialogue and v
   - Pillow
   - imdb-py
 
-## Getting Started
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Add your API credentials in `config.py`
-4. Run the application: `python main.py`
-
-## Use Cases
-- Creative writing inspiration for screenwriters
-- Visual concept development for filmmakers
-- Educational tool for film studies
-- Entertainment for movie enthusiasts
-
 ## Project Structure
 - `main.py`: Application entry point
 - `config.py`: Configuration variables and constants
